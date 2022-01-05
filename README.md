@@ -1,4 +1,4 @@
-# Fibonacci-project
+# project-fibonacci
 
 ## Aplikacja została zaprojektowana na bazie zadania 9.
 
